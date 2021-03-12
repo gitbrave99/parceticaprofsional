@@ -130,3 +130,14 @@
     margin-right: 0;
   }
 }
+
+
+.ambithover {
+  width: 200px;
+}
+
+.ambithover:hover {
+  box-shadow: 7px 4px 5px 0px rgba(164, 136, 136, 0.75);
+  -webkit-box-shadow: 7px 4px 5px 0px rgba(164, 136, 136, 0.75);
+  -moz-box-shadow: 7px 4px 5px 0px rgba(164, 136, 136, 0.75);
+}
